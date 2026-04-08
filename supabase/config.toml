@@ -1,0 +1,13 @@
+project_id = "qunfnodzvxakkdvtegmw"
+
+[functions.blockchain]
+verify_jwt = false
+
+[functions.generate-report]
+verify_jwt = false
+
+[functions.send-integrity-alert]
+verify_jwt = false
+
+[functions.send-sms]
+verify_jwt = false
